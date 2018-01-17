@@ -3,7 +3,7 @@
 ## Background
 For several years, I lived in an area of Washington, DC known as East of the River (EOTR) due to its location east of the Anacostia River. 
 
-![d c -neighborhoods-map](https://user-images.githubusercontent.com/7207786/34660179-4707b7ea-f40e-11e7-9d3b-7b1da279c427.jpg){ width=50%}
+![d c -neighborhoods-map](https://user-images.githubusercontent.com/7207786/34660179-4707b7ea-f40e-11e7-9d3b-7b1da279c427.jpg)
 
 History of EOTR
 Current state of DC and EOTR (politics, housing, jobs, etc.)
