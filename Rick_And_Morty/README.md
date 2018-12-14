@@ -4,3 +4,19 @@ Average Rank of Episodes ![image](https://user-images.githubusercontent.com/7207
 
 Range of Episode Rankings
 ![image](https://user-images.githubusercontent.com/7207786/49976797-81ae2280-ff11-11e8-96cb-93befb5e967c.png)
+
+* **Consistently ranked high:**
+    * *Total Rickall*
+    * *The Ricklantis Mixup*
+    * *Meeseeks and Destroy* 
+    * **These are also the overall top three episodes**
+    
+* **Consistently ranked low:**
+    * *The Rickchurian Mortydate*
+    * *Interdimensional Cable 2: Tempting Fate*
+    * *Raising Gazorpazorp*
+    * *Get Schwifty*
+
+* **Particularly polarizing episodes**
+    * *Close Rick-Counters of the Rick Kind*
+    * *Mortynight Run*
