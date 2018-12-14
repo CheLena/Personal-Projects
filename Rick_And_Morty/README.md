@@ -1,5 +1,7 @@
 ### Rick and Morty analysis
 
+Using information from articles ranking all 31 episodes of Cartoon Network animated show "Rick and Morty", I created a structured data frame to take a deeper look into how viewers and critics rank the show's episodes. 
+
 Average Rank of Episodes ![image](https://user-images.githubusercontent.com/7207786/49978803-31878e00-ff1a-11e8-9e07-1d5217c286c0.png)
 
 Range of Episode Rankings
