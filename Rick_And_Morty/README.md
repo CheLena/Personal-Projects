@@ -26,6 +26,9 @@ Using information from articles ranking all 31 episodes of Cartoon Network anima
     * *Raising Gazorpazorp*
     * *Get Schwifty*
 
-* **Particularly polarizing episodes**
+* **Particularly polarizing episodes, ranked at the top or bottom of some lists**
     * *Close Rick-Counters of the Rick Kind*
     * *Mortynight Run*
+    
+* **Other interesting observations**
+    * About two-thirds of episodes were ranked in the top 5 of at least one list
