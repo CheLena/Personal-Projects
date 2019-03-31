@@ -4,14 +4,14 @@ This repository is a collection of my data science projects, reflecting my inter
 
 ### Project Descriptions
 
-#### Rick and Morty Episode Rankings
+#### [Rick and Morty Episode Rankings](../tree/master/Rick_And_Morty)
 * Interested in how various websites ranked episodes of the popular animated show
 * Collected rankings of up to 31 episodes (as of November 2018) from various websites, blogs, forums
 * Applied different metrics to summarize ranks and figure out which episodes are most popular, least popular, and most controversial (inconsistent/variable rankings)
 
 ---
 
-#### East of the River DC
+#### [East of the River DC](../tree/master/EOTR)
 * Interested in business and economic development in a largely un-gentrified/under-developed area of Washington, DC
 * Some recent infographic maps have omitted this part of the city as if the data don't exist or don't matter
 * Historically, it is considered an undesirable, 'sketchy' area
@@ -21,7 +21,7 @@ This repository is a collection of my data science projects, reflecting my inter
 
 ---
 
-#### Data Science Programs
+#### [Data Science Programs](../tree/master/DataSciBootcamps)
 * Scraped data on data science career accelerator programs
 * Created structured datasets that include participants' academic background, project descriptions, and hiring company
 * Compared information on program partcipants and their projects
