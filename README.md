@@ -4,6 +4,17 @@ This repository is a collection of my data science projects, reflecting my inter
 
 ### Project Descriptions
 
+```diff
++ New Project!
+```
+#### [DataDive: Data Explorer Using Shiny](https://github.com/CheLena/Personal-Projects/tree/master/ShinyExplorer)
+* Built an interactive Shiny app to plot comparisons of variables
+* Used publicly available data from the site [IMDb](https://imdb.com), as provided by [Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+* This app decreases time spent programming to quickly dive into a dataset and explore relationships between variables
+* I plan to iteratively add features to this Shiny app to make it more useful and applicable to other types of datasets
+
+---
+
 #### [Rick and Morty Episode Rankings](https://github.com/CheLena/Personal-Projects/tree/master/Rick_And_Morty)
 * Interested in how various websites ranked episodes of the popular animated show
 * Collected rankings of up to 31 episodes (as of November 2018) from various websites, blogs, forums
@@ -30,16 +41,7 @@ This repository is a collection of my data science projects, reflecting my inter
 * Hot project topics include NLP, image classification, mapping, and recommender systems
 
 --- 
-```diff
-+ New Project!
-```
-#### [Data Explorer Using Shiny](https://github.com/CheLena/Personal-Projects/tree/master/ShinyExplorer)
-* Built an interactive Shiny app to plot comparisons of variables
-* Used publicly available data from the site [IMDb](https://imdb.com), as provided by [Kaggle](https://kaggle.com)
-* This app decreases time spent programming to quickly dive into a dataset and explore relationships between variables
-* I plan to iteratively add features to this Shiny app to make it more useful and applicable to other types of datasets
 
----
 
 ### Tools Used
 * R/R Studio
