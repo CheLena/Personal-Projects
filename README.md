@@ -29,6 +29,16 @@ This repository is a collection of my data science projects, reflecting my inter
 * Some programs offer the option to participate remotely
 * Hot project topics include NLP, image classification, mapping, and recommender systems
 
+--- 
+```diff
++ New Project!
+```
+#### [Data Explorer Using Shiny](https://github.com/CheLena/Personal-Projects/tree/master/ShinyExplorer)
+* Built an interactive Shiny app to plot comparisons of variables
+* Used publicly available data from the site [IMDb](https://imdb.com), as provided by [Kaggle](https://kaggle.com)
+* This app decreases time spent programming to quickly dive into a dataset and explore relationships between variables
+* I plan to iteratively add features to this Shiny app to make it more useful and applicable to other types of datasets
+
 ---
 
 ### Tools Used
