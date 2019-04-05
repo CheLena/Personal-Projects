@@ -1,1 +1,1 @@
-### R Shiny app to Explore Data Using Interactive Plots
+### DataDive: An R Shiny app to Explore Data Using Interactive Plots
